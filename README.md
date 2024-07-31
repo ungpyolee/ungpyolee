@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ungpyolee" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ungpyolee&layout=compact&langs_count=8&card_width=220" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ungpyolee&layout=compact&langs_count=8&card_width=260" />
 </div>
 <!-- 🔭 I’m currently working on ...-->
 <br>
