@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 <!-- 타이틀 -->
-<p>식사 하셨습니까?</p>
+<h2>Did you eat?</h2>
 <!-- 내용 -->
 
 <div>
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ungpyolee&layout=compact&langs_count=8&card_width=320" />
 </div>
 <!-- 🔭 I’m currently working on ...-->
-<p>
-- 🌱 I’m currently learning ...
+<p >
+🌱 I’m currently learning ...
 </p>
 <div>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -32,4 +32,3 @@ Here are some ideas to get you started:
 <!--- 📫 How to reach me: ...-->
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
--->
