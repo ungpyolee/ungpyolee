@@ -9,14 +9,13 @@ Here are some ideas to get you started:
 <!-- 내용 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ungpyolee" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ungpyolee&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 <!-- 🔭 I’m currently working on ...-->
+<p>
 - 🌱 I’m currently learning ...
+</p>
 <div>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
