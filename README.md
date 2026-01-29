@@ -70,8 +70,8 @@ I build **clear, maintainable, and user-centered products**.
 
 ## 📫 Contact
 
-- Blog: (Velog / Blog link here)
-- GitHub: https://github.com/your-id
+- Blog: [[(Velog / [Blog link here](https://velog.io/@ungpyolee/posts))]]
+- GitHub: https://github.com/ungpyolee
 
 ---
 
