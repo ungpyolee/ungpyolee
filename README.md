@@ -1,37 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I'm Ungpyo
 
-<!--
-**ungpyolee/ungpyolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with a UX mindset.  
+I build **clear, maintainable, and user-centered products**.
 
-Here are some ideas to get you started:
-<!-- 타이틀 -->
-<h2>Did you eat?</h2>
-<!-- 내용 -->
+---
 
-<div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ungpyolee" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ungpyolee&layout=compact&langs_count=8&card_width=300" />
-</div>
-<!-- 🔭 I’m currently working on ...-->
-<br>
-<br>
-<br>
-<p >
-🌱 I’m currently learning ...
-</p>
-<div>
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-<img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+## 🧭 About Me
 
-<!--- 👯 I’m looking to collaborate on ...-->
-<!--- 🤔 I’m looking for help with ...-->
-<!--- 💬 Ask me about ...-->
-<!--- 📫 How to reach me: ...-->
-<!--- 😄 Pronouns: ...-->
-<!--- ⚡ Fun fact: ...-->
+- 🎨 UI/UX Designer (3y+) → Frontend Developer (1y+)
+- 🧑‍💻 Currently working as a **Frontend Developer**
+- 🧠 Interested in **UX-driven development**, product thinking, and decision-making
+- 🛠 I care not only about *how to build*, but *why to build it that way*
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- **TypeScript**
+- **SvelteKit** (Main)
+- React / Next.js (Working knowledge)
+- HTML, CSS
+
+### Design & UX
+- UX Research & Case Analysis
+- Interaction & Flow Design
+- Design-to-Code Collaboration
+
+### Backend & Infra (Enough to build a product)
+- Node.js
+- REST API
+- PostgreSQL
+- Docker (Basic)
+- Vercel / Cloud Deployment
+
+---
+
+## 🧠 How I Think
+
+- UX problems should be solved **as close to the user as possible**
+- Technology is a **tool for decision-making**, not a goal
+- Read official docs, test assumptions, write down criteria
+- Prefer **simple, explainable solutions** over clever ones
+
+---
+
+## ✍️ Writing & Learning
+
+- Weekly UX case analysis
+- Official documentation deep dives
+- Decision criteria for:
+  - SSR vs CSR
+  - State placement
+  - UI abstraction
+  - Tech adoption
+
+👉 I write to clarify my thinking, not just to record results.
+
+---
+
+## 🚀 Goals
+
+- Become a **product-oriented frontend engineer**
+- Grow toward **full-stack capability** with frontend focus
+- Use AI as a **thinking & productivity tool**, not a shortcut
+- Build services that I can explain clearly to both users and teammates
+
+---
+
+## 📫 Contact
+
+- Blog: (Velog / Blog link here)
+- GitHub: https://github.com/your-id
+
+---
+
+> “Good code solves problems.  
+> Great code explains itself.”
